@@ -1,4 +1,4 @@
-# main.py
+#Need to add API 
 import openai
 from config import OPENAI_API_KEY, LANGUAGE
 from voice import speak, listen
